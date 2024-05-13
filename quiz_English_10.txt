@@ -1,0 +1,91 @@
+### Project Management Quiz: Focus on Agile and SDLC
+
+#### Question 1
+What does SDLC stand for in project management?
+- A) Software Development Life Cycle
+- B) Simple Direct Logic Circuit
+- C) System Design and Life Check
+- D) Sequential Development and Lifecycle
+
+**Answer: A) Software Development Life Cycle**
+
+#### Question 2
+Which of the following is NOT a phase of the Agile SDLC model?
+- A) Planning
+- B) Testing
+- C) Deployment
+- D) Documentation
+
+**Answer: D) Documentation**
+
+#### Question 3
+In Agile project management, what is a sprint?
+- A) A long-term plan set for project delivery.
+- B) A short, time-boxed period where a development team works to complete a set amount of work.
+- C) The final phase of the project where products are delivered to customers.
+- D) A meeting to reflect on the challenges encountered during the project.
+
+**Answer: B) A short, time-boxed period where a development team works to complete a set amount of work.**
+
+#### Question 4
+What is the primary goal of the Agile methodology?
+- A) To ensure the project is completed within the budget.
+- B) To enable teams to deliver value to their customer faster and with fewer headaches.
+- C) To eliminate the need for project documentation.
+- D) To follow a strict plan with no changes.
+
+**Answer: B) To enable teams to deliver value to their customer faster and with fewer headaches.**
+
+#### Question 5
+Which of the following best describes the term "Scrum" within the context of Agile project management?
+- A) A tool used for version control.
+- B) A role defined within the Agile methodology.
+- C) A framework used to facilitate team collaboration on complex projects.
+- D) A phase in the SDLC where the team scrambles to finish their tasks.
+
+**Answer: C) A framework used to facilitate team collaboration on complex projects.**
+
+#### Question 6
+In the context of SDLC, which phase involves identifying the current problems and planning for the future project?
+- A) Implementation
+- B) Testing
+- C) Analysis
+- D) Maintenance
+
+**Answer: C) Analysis**
+
+#### Question 7
+The Agile Manifesto emphasizes:
+- A) Tools and processes over individuals and interactions.
+- B) Comprehensive documentation over working software.
+- C) Contract negotiation over customer collaboration.
+- D) Responding to change over following a plan.
+
+**Answer: D) Responding to change over following a plan.**
+
+#### Question 8
+What is typically used in Agile projects to prioritize work?
+- A) Gantt Charts
+- B) Product Backlog
+- C) Work Breakdown Structure (WBS)
+- D) PERT chart
+
+**Answer: B) Product Backlog**
+
+#### Question 9
+During which SDLC phase is the software designed?
+- A) Planning
+- B) Analysis
+- C) Design
+- D) Deployment
+
+**Answer: C) Design**
+
+#### Question 10
+What characterizes the "Iterative" approach in Agile development?
+- A) Completing the project in a single cycle without any changes.
+- B) Developing through repeated cycles and smaller portions at a time.
+- C) Following a strict sequence of project phases with no overlap.
+- D) Avoiding customer feedback until project completion.
+
+**Answer: B) Developing through repeated cycles and smaller portions at a time.**
